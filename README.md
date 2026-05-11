@@ -25,6 +25,8 @@ The models successfully identified "Micro-structuring" patterns (small, frequent
 
 <img width="527" height="393" alt="image" src="https://github.com/user-attachments/assets/8f4f52dd-726e-4ec4-aad4-8b44a8077ab8" />
 
+<img width="527" height="395" alt="image" src="https://github.com/user-attachments/assets/60a05b76-2563-472b-969e-fbe9e901a443" />
+
 
 <img width="527" height="400" alt="image" src="https://github.com/user-attachments/assets/82f47a20-77d4-4887-a0f7-c2e6f1e88264" />
 

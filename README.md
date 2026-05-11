@@ -1,4 +1,4 @@
-# Financial Anomaly Detection: Machine Learning vs. Rule-Based Systems
+# Financial Anomaly Detection: Machine Learning vs. Rule-Based Systems 💳🔍
 This repository contains a comprehensive study on detecting fraudulent credit card transactions by comparing traditional rule-based systems with modern machine learning approaches (Random Forest and XGBoost).
 
 # 📌 Project Overview
